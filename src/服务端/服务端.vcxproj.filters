@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="框架">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="入口">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="网络">
+      <UniqueIdentifier>{111dc3af-ff12-4ed4-bef1-7385ebf52b1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="网络\反序列化">
+      <UniqueIdentifier>{a4de09f5-9371-44d7-8ba3-1bc21cf7442f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="网络\内存池">
+      <UniqueIdentifier>{4138ad9d-4a7b-4065-9167-de3b7837d8c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="网络\序列化">
+      <UniqueIdentifier>{857c8c3c-5005-423a-b8ab-9a4bbdd79f23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\XML">
+      <UniqueIdentifier>{c357f11a-c7d2-4d6c-a6c4-9fd4c0de84af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\协议">
+      <UniqueIdentifier>{98bbf48b-76f4-410e-96f7-56ea2c368c05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="框架\游戏父类接口">
+      <UniqueIdentifier>{b9b2b591-fe0e-4013-9271-42d5b71fa133}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="入口\斗地主">
+      <UniqueIdentifier>{60b62d13-964d-4ad6-b727-a92dcafefe3a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TcpServer.cpp">
+      <Filter>网络</Filter>
+    </ClCompile>
+    <ClCompile Include="SendPackage.cpp">
+      <Filter>网络\序列化</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryPool.cpp">
+      <Filter>网络\内存池</Filter>
+    </ClCompile>
+    <ClCompile Include="RecvPackage.cpp">
+      <Filter>网络\反序列化</Filter>
+    </ClCompile>
+    <ClCompile Include="NetGameFrame.cpp">
+      <Filter>框架</Filter>
+    </ClCompile>
+    <ClCompile Include="GameServer.cpp">
+      <Filter>框架\游戏父类接口</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinystr.cpp">
+      <Filter>框架\XML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxml.cpp">
+      <Filter>框架\XML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlerror.cpp">
+      <Filter>框架\XML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml\tinyxmlparser.cpp">
+      <Filter>框架\XML</Filter>
+    </ClCompile>
+    <ClCompile Include="Project.cpp">
+      <Filter>入口</Filter>
+    </ClCompile>
+    <ClCompile Include="DouDiZhuServer.cpp">
+      <Filter>入口\斗地主</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TcpServer.h">
+      <Filter>网络</Filter>
+    </ClInclude>
+    <ClInclude Include="SendPackage.h">
+      <Filter>网络\序列化</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryPool.h">
+      <Filter>网络\内存池</Filter>
+    </ClInclude>
+    <ClInclude Include="RecvPackage.h">
+      <Filter>网络\反序列化</Filter>
+    </ClInclude>
+    <ClInclude Include="NetGameFrame.h">
+      <Filter>框架</Filter>
+    </ClInclude>
+    <ClInclude Include="GameServer.h">
+      <Filter>框架\游戏父类接口</Filter>
+    </ClInclude>
+    <ClInclude Include="NetGameFrameProtocol.h">
+      <Filter>框架\协议</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml\tinystr.h">
+      <Filter>框架\XML</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml\tinyxml.h">
+      <Filter>框架\XML</Filter>
+    </ClInclude>
+    <ClInclude Include="DouDiZhuServer.h">
+      <Filter>入口\斗地主</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

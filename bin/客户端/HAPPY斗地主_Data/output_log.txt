@@ -1,0 +1,143 @@
+Initialize engine version: 5.2.4f1 (98095704e6fe)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.CJK.dll (this message is harmless)
+Ilatform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.CJK.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.CJK.dll into Unity Child Domanni
+tialize enginfo vrrsaisombny:  :5.s2.s4f41 2(9D809t57\04eP6f�e)�
+�f�xDDate\vaiaced:I credat itngs mdsevgi ce calieest;
+ threaded=1ading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.144 seconds
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.CJK.dll (this message is harmless)
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.CJK.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.CJK.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.dll (this message is harmless)
+Loading C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\I18N.dll into Unity Child Domain
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.148 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: efb4 -> priority: 1 
+  Thread -> id: 120a0 -> priority: 1 
+Platform assembly: C:\Users\941128\Desktop\HAPPY斗地主_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f3ac -> priority: 1 
+  Thread -> id: 10cd0 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.731021 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 0.575178 ms (FindLiveObjects: 0.046014 ms CreateObjectMapping: 0.038151 ms MarkObjects: 0.466258 ms  DeleteObjects: 0.023007 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.806159 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 0.567897 ms (FindLiveObjects: 0.039315 ms CreateObjectMapping: 0.044266 ms MarkObjects: 0.462181 ms  DeleteObjects: 0.021259 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.619026 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.627890 ms (FindLiveObjects: 0.034947 ms CreateObjectMapping: 0.042519 ms MarkObjects: 0.531784 ms  DeleteObjects: 0.018056 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.670573 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.562072 ms (FindLiveObjects: 0.029122 ms CreateObjectMapping: 0.042519 ms MarkObjects: 0.471209 ms  DeleteObjects: 0.017764 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.053458 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1144.
+Total: 0.699824 ms (FindLiveObjects: 0.050965 ms CreateObjectMapping: 0.077758 ms MarkObjects: 0.553627 ms  DeleteObjects: 0.015435 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.950945 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1144.
+Total: 0.710308 ms (FindLiveObjects: 0.048926 ms CreateObjectMapping: 0.078923 ms MarkObjects: 0.565567 ms  DeleteObjects: 0.016308 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.810200 ms
+
+Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 741.
+Total: 0.804958 ms (FindLiveObjects: 0.060866 ms CreateObjectMapping: 0.073681 ms MarkObjects: 0.516058 ms  DeleteObjects: 0.153477 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803793 ms
+
+Unloading 376 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 0.805249 ms (FindLiveObjects: 0.060575 ms CreateObjectMapping: 0.073681 ms MarkObjects: 0.522756 ms  DeleteObjects: 0.147653 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.789522 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1144.
+Total: 0.696620 ms (FindLiveObjects: 0.040480 ms CreateObjectMapping: 0.073098 ms MarkObjects: 0.571100 ms  DeleteObjects: 0.011357 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.771466 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1144.
+Total: 0.743508 ms (FindLiveObjects: 0.055333 ms CreateObjectMapping: 0.067565 ms MarkObjects: 0.605465 ms  DeleteObjects: 0.013979 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DouDiZhuClient.OnServerSendData (System.Byte[] data, Int32 index, Int32 count) [0x00000] in <filename unknown>:0 
+  at SceneRoom.on_SP_PLAY_ROOM (.RecvPackage rp) [0x00000] in <filename unknown>:0 
+  at SceneRoom.OnRecv (System.Byte[] data) [0x00000] in <filename unknown>:0 
+  at TcpClient._Recv () [0x00000] in <filename unknown>:0 
+  at TcpClient.Run () [0x00000] in <filename unknown>:0 
+  at MainScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DouDiZhuClient.OnServerSendData (System.Byte[] data, Int32 index, Int32 count) [0x00000] in <filename unknown>:0 
+  at SceneRoom.on_SP_PLAY_ROOM (.RecvPackage rp) [0x00000] in <filename unknown>:0 
+  at SceneRoom.OnRecv (System.Byte[] data) [0x00000] in <filename unknown>:0 
+  at TcpClient._Recv () [0x00000] in <filename unknown>:0 
+  at TcpClient.Run () [0x00000] in <filename unknown>:0 
+  at MainScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

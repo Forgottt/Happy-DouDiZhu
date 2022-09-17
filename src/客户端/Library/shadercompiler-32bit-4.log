@@ -1,0 +1,23 @@
+Base path: E:/Unity/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-4-46816
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=13030 outsize=4402 kw=_SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=13030 outsize=4422 kw=_SUNDISK_HIGH_QUALITY pd= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=13030 outsize=18029 kw=_SUNDISK_HIGH_QUALITY pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=13030 outsize=4117 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_HIGH_QUALITY pd= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=13030 outsize=1259 kw=_SUNDISK_NONE pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13030 outsize=2338 kw=_SUNDISK_HIGH_QUALITY pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13030 outsize=908 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_NONE pd= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=13030 outsize=3023 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=1
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process
